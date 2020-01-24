@@ -1,0 +1,2 @@
+rm KeepInReview.zip
+zip -R KeepInReview.zip config.* *py  LICENSE *.md zipping --exclude \*~ \*zip ankiweb
