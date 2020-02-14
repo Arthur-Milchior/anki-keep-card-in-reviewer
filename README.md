@@ -8,8 +8,6 @@ card.
 This add-on simply ensure this, as long as the note of the card in the
 reviewer has not been deleted or modified, it stays displayed.
 
-You may also want to install add-on ("edited" value of note is not changed unless card is really edited.)[https://ankiweb.net/shared/info/153450853] to ensure that note are not seen as edited unless they really are.
-
 ## Warning
 
 ### Error message
